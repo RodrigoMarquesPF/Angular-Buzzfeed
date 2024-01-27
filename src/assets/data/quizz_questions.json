@@ -1,0 +1,76 @@
+{
+  "title":"Você seria um heroi ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual seria sua habilidade especial?",
+      "options":[
+        {"id": 1, "name":"Controle do Fogo", "alias":"A"},
+        {"id": 2, "name":"Telepatia", "alias":"B"},
+        {"id": 3, "name":" Velocidade Sobre-Humana", "alias":"A"},
+        {"id": 4, "name":"Transformação", "alias":"B"},
+        {"id": 5, "name":"Controle do Tempo", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Escolha seu traje de combate:",
+      "options":[
+        {"id": 1, "name":"Armadura Tecnológica", "alias":"A"},
+        {"id": 2, "name":" Kimono Místico", "alias":"A"},
+        {"id": 3, "name":"Uniforme Escolar", "alias":"B"},
+        {"id": 4, "name":"Armadura Celestial", "alias":"A"},
+        {"id": 5, "name":"Traje de Ninja", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Seu arqui-inimigo é:",
+      "options":[
+        {"id": 1, "name":"Um gênio do mal", "alias":"B"},
+        {"id": 2, "name":"Um monstro gigante", "alias":"A"},
+        {"id": 3, "name":"Um feiticeiro maligno", "alias":"A"},
+        {"id": 4, "name":"Um androide rebelde", "alias":"B"},
+        {"id": 5, "name":"Um rival superpoderoso", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual é a origem do seu poder?",
+      "options":[
+        {"id": 1, "name":" Experimento Científico", "alias":"B"},
+        {"id": 2, "name":"Herança Mística", "alias":"A"},
+        {"id": 3, "name":"Poder Alienígena", "alias":"B"},
+        {"id": 4, "name":"Treinamento Intenso", "alias":"A"},
+        {"id": 5, "name":" Pacto com Seres Sobrenaturais", "alias":"B"}
+       
+      ]
+    },
+    {
+      "id":5,
+      "question": "Escolha seu local de combate favorito:",
+      "options":[
+        {"id": 1, "name":"Cidade Futurista", "alias":"A"},
+        {"id": 2, "name":"Templo Antigo", "alias":"B"},
+        {"id": 2, "name":"Dimensão Paralela", "alias":"B"},
+        {"id": 2, "name":" Escola de Magia", "alias":"A"},
+        {"id": 2, "name":"Base Espacial", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual seria o seu lema de super-herói ou vilão?",
+      "options":[
+        {"id": 1, "name":"Justiça será feita!", "alias":"A"},
+        {"id": 2, "name": "Ninguém pode deter meu poder!", "alias":"B"},
+        {"id": 2, "name":"O caos é a verdadeira ordem!", "alias":"B"},
+        {"id": 2, "name":"Pela paz ou pela destruição, a escolha é minha.", "alias":"B"},
+        {"id": 2, "name":"O destino está nas minhas mãos!", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
